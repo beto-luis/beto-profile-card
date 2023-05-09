@@ -1,0 +1,22 @@
+@media (max-width:375px){
+    .container{       
+        max-width: 375px;
+        width: 100%;
+        padding: 25px;
+    }
+
+    .conteudo{
+        max-height: 60%;
+    }
+
+    #foto-perfil{
+        display: flex;
+        max-width: 100%;
+        margin-left: 30%;
+    }
+
+    .informacoes{
+        font-size: 14px;
+        gap: 20px;
+    }
+}
