@@ -1,7 +1,5 @@
 # Frontend Mentor - Profile card component
-<br>
-## Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-<br>
+
 ![Design preview for the Profile card component coding challenge](./src/images/Desafio-pronto.jpg)
 
 ## Welcome! 👋
