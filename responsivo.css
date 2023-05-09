@@ -20,3 +20,26 @@
         gap: 20px;
     }
 }
+
+@media (max-width:325px){
+    .container{       
+        max-width: 325px;
+        width: 100%;
+        padding: 20px;
+    }
+
+    .conteudo{
+        max-height: 60%;
+    }
+
+    #foto-perfil{
+        display: flex;
+        max-width: 100%;
+        margin-left: 28%;
+    }
+
+    .informacoes{
+        font-size: 14px;
+        gap: 20px;
+    }
+}
